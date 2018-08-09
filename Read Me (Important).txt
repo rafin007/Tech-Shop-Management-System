@@ -1,0 +1,21 @@
+
+
+* We put some change on admin UI. Now Admin can remove registered users from Table.
+
+* Quantity reducing problem is solved. 
+
+
+Though there are minor problem still exists we are working on it. 
+
+
+** Please Change the destination of image icons path for  background image. 
+You can just put your PC name into the located " " space below ( if ur eclipse
+ workspace is in default location )
+
+ "C:\\Users\\"Fahim"\\workspace\\ShopManagement\\src\\icon\\cover_ui.jpg"
+
+
+We promise we will keep working on this project throughout 
+the whole semesterbreak.  
+
+Thank You. We learned a lot from you. God bless you Sir.  
